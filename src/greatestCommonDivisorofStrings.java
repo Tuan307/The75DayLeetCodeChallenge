@@ -14,7 +14,7 @@ public class greatestCommonDivisorofStrings {
         }
         return "";
     }
-    }
+
 
     public static void main(String[] args) {
         System.out.println(gcdOfStrings("ABABAB", "ABAB"));
