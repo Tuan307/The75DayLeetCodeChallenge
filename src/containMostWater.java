@@ -29,6 +29,6 @@ public class containMostWater {
     }
 
     public static void main(String[] args) {
-        System.out.println("Answer: "+new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 });
+        System.out.println("Answer: " + new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 });
     }
 }
