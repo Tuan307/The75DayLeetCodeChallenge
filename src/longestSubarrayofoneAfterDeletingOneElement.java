@@ -12,8 +12,8 @@ public class longestSubarrayofoneAfterDeletingOneElement {
             if (k < countZero) {
                 if (nums[left] == 0) {
                     countZero--;
-                    left++;
                 }
+                left++;
             } else {
                 result = Math.max(result, i + 1 - left);
             }
